@@ -1,0 +1,10 @@
+---
+title: "git"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+2*2
+```
